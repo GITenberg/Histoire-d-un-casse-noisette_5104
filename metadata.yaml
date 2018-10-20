@@ -1,5 +1,5 @@
 _repo: Histoire-d-un-casse-noisette_5104
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,6 +31,7 @@ subjects:
 - !lcsh 'Fairy tales'
 - !lcc 'PZ'
 - !lcsh 'Children''s stories, French'
+- GITenberg
 tableOfContents: "Histoire d'un casse-noisette\r\nL'egoiste\r\nNicolas le philosophe."
 title: Histoire d'un casse-noisette
 url: http://www.gutenberg.org/ebooks/5104
